@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 <br />
 
 
-[linkedin]: https://www.linkedin.com/in/jonathan-hay-b879a9221/
+[linkedin]: https://www.linkedin.com/in/jonathan-hay-dev/
 [here]: https://github.com/Jonathan-Hay/Code-Quality-Metrics-for-Multithreaded-Java-Files
